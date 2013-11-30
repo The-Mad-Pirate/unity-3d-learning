@@ -1,0 +1,92 @@
+fileFormatVersion: 1
+guid: 7b5b57d547ed446c795e8b86e881b006
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    table:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 6400008
+    wood:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 6400010
+    wood_001:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 6400012
+    lamp:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 6400004
+    outpost:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    - 6400006
+    wood_002:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    - 6400014
+    dish:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 6400000
+    //RootNode:
+    - 100014
+    - 400014
+    - 11100000
+    door:
+    - 100016
+    - 400016
+    - 3300014
+    - 2300014
+    - 6400002
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: wood_001
+    4300002: wood
+    4300004: outpost
+    4300006: table
+    4300008: dish
+    4300010: wood_002
+    4300012: lamp
+    4300014: door
+    7400000: Default Take //// outpost
+    7400002: Default Take //// outPost
+    7400004: idle //// outPost
+    7400006: dooropen //// outPost
+    7400008: doorshut //// outPost
