@@ -1,0 +1,169 @@
+fileFormatVersion: 1
+guid: ce040982d3c2c4754a6d5d6ccda0cdd8
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    rock8:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    rock7:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    rock9:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    rock5:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    rock4:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    rock6:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    rock2:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    rock1:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    rock3:
+    - 100016
+    - 400016
+    - 3300016
+    - 2300016
+    stick13:
+    - 100018
+    - 400018
+    - 3300018
+    - 2300018
+    stick12:
+    - 100020
+    - 400020
+    - 3300020
+    - 2300020
+    stick14:
+    - 100022
+    - 400022
+    - 3300022
+    - 2300022
+    stick10:
+    - 100024
+    - 400024
+    - 3300024
+    - 2300024
+    stick9:
+    - 100026
+    - 400026
+    - 3300026
+    - 2300026
+    stick11:
+    - 100028
+    - 400028
+    - 3300028
+    - 2300028
+    stick7:
+    - 100030
+    - 400030
+    - 3300030
+    - 2300030
+    stick6:
+    - 100032
+    - 400032
+    - 3300032
+    - 2300032
+    stick8:
+    - 100034
+    - 400034
+    - 3300034
+    - 2300034
+    stick4:
+    - 100036
+    - 400036
+    - 3300036
+    - 2300036
+    stick3:
+    - 100038
+    - 400038
+    - 3300038
+    - 2300038
+    stick5:
+    - 100040
+    - 400040
+    - 3300040
+    - 2300040
+    stick1:
+    - 100042
+    - 400042
+    - 3300042
+    - 2300042
+    //RootNode:
+    - 100044
+    - 400044
+    - 11100000
+    stick2:
+    - 100046
+    - 400046
+    - 3300044
+    - 2300044
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: stick1
+    4300002: stick2
+    4300004: stick3
+    4300006: stick4
+    4300008: stick5
+    4300010: stick6
+    4300012: stick7
+    4300014: stick8
+    4300016: stick9
+    4300018: stick10
+    4300020: stick11
+    4300022: stick12
+    4300024: stick13
+    4300026: stick14
+    4300028: rock1
+    4300030: rock2
+    4300032: rock3
+    4300034: rock4
+    4300036: rock5
+    4300038: rock6
+    4300040: rock7
+    4300042: rock8
+    4300044: rock9

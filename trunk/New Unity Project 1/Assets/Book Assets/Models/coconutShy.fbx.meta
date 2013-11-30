@@ -1,0 +1,57 @@
+fileFormatVersion: 1
+guid: 527b563e83815419cbb75081cc0a594b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    powerHolder:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    coconutShy:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    mat:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    powerCell:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    //RootNode:
+    - 100008
+    - 400008
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: powerHolder
+    4300002: mat
+    4300004: coconutShy
+    4300006: powerCell
+    7400000: Default Take //// coconutShy-v7
+    7400002: Default Take //// coconutShy
