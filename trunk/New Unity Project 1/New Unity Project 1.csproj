@@ -59,6 +59,8 @@
      <None Include="Assets\Standard Assets\Skyboxes\ skybox info.txt" />
      <Compile Include="Assets\Standard Assets\Water (Basic)\Sources\Scripts\WaterSimple.cs" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
+     <Compile Include="Assets\Scripts\Shooter.cs" />
+     <None Include="Assets\Scripts\Shooter.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
