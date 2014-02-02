@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="New Unity Project 1">
+</Property><Property Name="Solution File" Value="Z:\Users\Administrator\Documents\SVN\trunk\New Unity Project 1\New Unity Project 1.sln">
+</Property><Property Name="Date" Value="domingo, 02 de febrero de 2014">
+</Property><Property Name="Time" Value="03:14 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="New Unity Project 1.sln" Description="File successfully backed up as Z:\Users\Administrator\Documents\SVN\trunk\New Unity Project 1\Backup\New Unity Project 1.sln">
+</Event><Event ErrorLevel="2" Project="New Unity Project 1" Source="New Unity Project 1.csproj" Description="Unable to parse project file: Z:\Users\Administrator\Documents\SVN\trunk\New Unity Project 1\New Unity Project 1.csproj">
+</Event><Event ErrorLevel="3" Project="New Unity Project 1" Source="New Unity Project 1.csproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="New Unity Project 1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="New Unity Project 1.sln" Description="Converted">
+</Event></UpgradeLog>
