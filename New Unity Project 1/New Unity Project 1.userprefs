@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Shooter.cs">
     <Files>
-      <File FileName="Assets\Scripts\Shooter.cs" Line="4" Column="24" />
-      <File FileName="Assets\Scripts\Shooter.js" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\Shooter.js" Line="12" Column="38" />
+      <File FileName="Assets\Scripts\Shooter.cs" Line="46" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
